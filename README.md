@@ -20,4 +20,4 @@
 - [ ] Exemplo — Advinhe o Número.
 
 ## INFORMAÇÕES
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devgeeknerd.javascript-basico-zp "Total de Visitas")
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Devgeeknerd.javascript-basico-front-end-zp "Total de Visitas")
