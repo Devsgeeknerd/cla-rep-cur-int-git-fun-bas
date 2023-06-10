@@ -1,37 +1,35 @@
-# JAVASCRIPT BÁSICO
+<!-- Título -->
+# Repositório do Curso
 
-***Aulas:***
+***Conteúdo da Aula:***
 
-- [ ] Primeiros Passos.
-- [ ] Criando Variáveis.
-- [ ] Prompt de Entrada.
-- [ ] Escrever na Página.
-- [ ] JavaScript Fiddle.
-- [ ] Refresh ou Redirect.
-- [ ] Modificando o HTML.
-- [ ] Criando funções.
-- [ ] Modificando uma Lista.
-- [ ] Operações.
-- [ ] Arrays.
-- [ ] Manipulando Arrays.
-- [ ] Verificadores.
-- [ ] Loops.
-- [ ] Switch.
-- [ ] Exemplo — Advinhe o Número.
+Todo o código-fonte produzido neste curso está disponível no seguinte repositório:
 
-## INFORMAÇÕES
+* [Git fundamentos.](https://github.com/treinaweb/treinaweb-git-fundamentos)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.javascript-basico-front-end-zp "Total de Visitas")
-&nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
-&nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/javascript-basico-front-end-zp?style=social "Total de Observadores")
-&nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/javascript-basico-front-end-zp?style=social "Total de Estrelas Recebidas")
-&nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/javascript-basico-front-end-zp?style=social "Total de Forks")
-&nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/javascript-basico-front-end-zp?style=social "Tamanho do Repositório")
-&nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/javascript-basico-front-end-zp?style=social "Licença do Repositório")
+Você pode cloná-lo em sua máquina utilizando o comando:
 
+```powershell
+git clone https://github.com/treinaweb/treinaweb-git-fundamentos
+```
+
+ou até realizar o download do projeto através da própria página do GitHub, clicando no botão **“Clone or download”**:
+
+![Exemplo](https://d2v0x26thbzlwf.cloudfront.net/prod/527/img/rId9e1h4d1we.dse.png)
+
+<!-- Informações -->
+## &#8505; Informações
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-rep-cur-int-git-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
+&nbsp;
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-rep-cur-int-git-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-rep-cur-int-git-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+&nbsp;
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-rep-cur-int-git-fun-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+&nbsp;
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-rep-cur-int-git-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
+&nbsp;
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-rep-cur-int-git-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
